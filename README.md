@@ -22,5 +22,5 @@ Este projeto é uma página de apresentação desenvolvida durante meus estudos 
 - Google Fonts
 
 ## 👨‍💻 Sobre
-Desenvolvido por **Tiago Lima** como prática de estruturação semântica, responsividade e layout moderno utilizando apenas HTML e CSS.
+Desenvolvido por **Tiago Lima** como prática de estruturação semântica, responsividade e layout moderno utilizando apenas HTML e CSS. 
 Áreas que necessitam de JavaScript para funcionarem já foram deixadas prontas para implementação
