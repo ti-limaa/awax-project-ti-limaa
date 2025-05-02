@@ -19,7 +19,7 @@ Este projeto é uma página de apresentação desenvolvida durante meus estudos 
 
 - HTML5
 - CSS3
-- Google Fonts
+
 
 ## 👨‍💻 Sobre
 Desenvolvido por **Tiago Lima** como prática de estruturação semântica, responsividade e layout moderno utilizando apenas HTML e CSS. 
