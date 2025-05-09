@@ -1,6 +1,6 @@
 # Projeto AWAX
 
-Este projeto é uma página de apresentação desenvolvida durante meus estudos em HTML e CSS. Segui como base um exercício do curso da B7Web, mas adaptei com minhas próprias ideias e estrutura para praticar responsividade e organização de layout.
+Este projeto é uma página de apresentação desenvolvida durante meus estudos em HTML e CSS. Segui como base um exercício do curso da B7Web, mas adaptei com minhas próprias ideias e estrutura para praticar responsividade e organização de layout
 
 ## 📸 Preview
 
